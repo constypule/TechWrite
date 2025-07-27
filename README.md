@@ -94,4 +94,4 @@ Special thanks to the contributors and supporters.
 * Use consistent formatting throughout the document.
 * Update your README file as your project evolves.
 
-This example follows a standard structure and uses Markdown syntax to create a clear, informative README file. Remember, the most important thing is that your README is helpful and informative for users and contributors. Tailor the contents to your project's needs.
+
